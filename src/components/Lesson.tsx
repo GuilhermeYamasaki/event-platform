@@ -1,4 +1,4 @@
-export function lesson(){
+export function Lesson(){
     return(
         <h1>lesson</h1>
     )
